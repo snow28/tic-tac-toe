@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510096961 source:f:\sdl_computer_graphics\krestiki_noliki\krestiki_noliki.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+
